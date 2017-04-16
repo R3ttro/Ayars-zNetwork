@@ -1,2 +1,0 @@
-# Ayars-zNetwork
-AyarsızNetwork
