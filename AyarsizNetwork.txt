@@ -1,0 +1,14 @@
+Beta 0.1 Güncelleme Notları:
+
+• AyarsızNetwork Plugin Paketi oluşturuldu.
+• Mesaj prefixleri, tagları ve renkleri düzenlendi.
+• Gereksiz pluginler kaldırıldı.
+• Rapor sistemi yeniden hazırlandı.
+• Yetkililer menüsü eklendi.
+• Rütbe sisteminde ufak değişiklikler oldu.
+• Komut açıkları kapatıldı.
+• Sunucu versiyonları 1.8 - 1.11 olarak ayarlandı.
+• Mute sisteminin tasarımı değiştirildi, kodlamada küçük değişiklikler yapıldı.
+• Uyarı sistemine cool down eklendi.
+• Otomatik mesajlar kaldırıldı.
+• Giriş mesajları düzenlendi.
