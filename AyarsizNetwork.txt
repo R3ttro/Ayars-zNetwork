@@ -24,4 +24,6 @@ Beta 0.2 Güncelleme Notları:
 • Essentials mesaj tasarımı değiştirildi.
 • Warp menü tasarımı değiştirildi.
 • Sidebar menüsü eklendi.
+• Ban sistemi değiştirildi.
+• Artık kısaltmalar otomatik olarak düzeltiliyor.
 
