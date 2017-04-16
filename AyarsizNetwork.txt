@@ -12,3 +12,9 @@ Beta 0.1 Güncelleme Notları:
 • Uyarı sistemine cool down eklendi.
 • Otomatik mesajlar kaldırıldı.
 • Giriş mesajları düzenlendi.
+
+Beta 0.2 Güncelleme Notları:
+
+• Warp sistemi yeniden hazırlandı.
+• Particle sorunu çözüldü.
+
