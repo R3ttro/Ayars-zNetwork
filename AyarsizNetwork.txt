@@ -23,3 +23,5 @@ Beta 0.2 Güncelleme Notları:
 • Motd tasarımı değiştirildi.
 • Essentials mesaj tasarımı değiştirildi.
 • Warp menü tasarımı değiştirildi.
+• Sidebar menüsü eklendi.
+
