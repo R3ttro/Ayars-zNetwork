@@ -17,4 +17,9 @@ Beta 0.2 Güncelleme Notları:
 
 • Warp sistemi yeniden hazırlandı.
 • Particle sorunu çözüldü.
-
+• Tab tasarımı değiştirildi.
+• Sunucuya giriş title mesaj tasarımı değiştirildi.
+• Sohbet silme mesaj tasarımı değiştirildi.
+• Motd tasarımı değiştirildi.
+• Essentials mesaj tasarımı değiştirildi.
+• Warp menü tasarımı değiştirildi.
