@@ -26,4 +26,5 @@ Beta 0.2 Güncelleme Notları:
 • Sidebar menüsü eklendi.
 • Ban sistemi değiştirildi.
 • Artık kısaltmalar otomatik olarak düzeltiliyor.
+• Arsalar tasarımı değiştirildi.
 
