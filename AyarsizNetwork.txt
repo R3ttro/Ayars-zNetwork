@@ -34,3 +34,5 @@ Beta 0.3 Güncelleme Notları:
 
 • Güvenlik şifre sistemi geliştirildi.
 • Anti hile sistemi geliştirildi.
+• Ban menüsü getirildi.
+• Sidebar tasarımı değiştirildi.
