@@ -27,4 +27,5 @@ Beta 0.2 Güncelleme Notları:
 • Ban sistemi değiştirildi.
 • Artık kısaltmalar otomatik olarak düzeltiliyor.
 • Arsalar tasarımı değiştirildi.
-
+• Tarlalar eklendi.
+• Disguise sistemi getirildi.
