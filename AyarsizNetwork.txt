@@ -33,3 +33,4 @@ Beta 0.2 Güncelleme Notları:
 Beta 0.3 Güncelleme Notları:
 
 • Güvenlik şifre sistemi geliştirildi.
+• Anti hile sistemi geliştirildi.
