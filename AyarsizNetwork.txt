@@ -29,3 +29,7 @@ Beta 0.2 Güncelleme Notları:
 • Arsalar tasarımı değiştirildi.
 • Tarlalar eklendi.
 • Disguise sistemi getirildi.
+
+Beta 0.3 Güncelleme Notları:
+
+• Güvenlik şifresi geliştirildi.
