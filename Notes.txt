@@ -40,3 +40,6 @@ Beta 0.3 Güncelleme Notları:
 • AuthMe mesaj tasarımları değiştirildi.
 • Açık arttırma eklendi.
 • Açık arttırma mesaj tasarımları değiştirildi, türkçeleştirildi.
+• Rütbe sistemi eklendi.
+• Klan sistemi eklendi.
+
