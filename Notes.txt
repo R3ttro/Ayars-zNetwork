@@ -36,3 +36,7 @@ Beta 0.3 Güncelleme Notları:
 • Anti hile sistemi geliştirildi.
 • Ban menüsü getirildi.
 • Sidebar tasarımı değiştirildi.
+• TOP 10 eklendi.
+• AuthMe mesaj tasarımları değiştirildi.
+• Açık arttırma eklendi.
+• Açık arttırma mesaj tasarımları değiştirildi, türkçeleştirildi.
