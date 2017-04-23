@@ -1,4 +1,4 @@
-#I. Genel
+I. Genel
 
 MADDE 1. - Sunucunun resmi ismi AyarsızNetwork'tür.
 MADDE 2. - Sunucunun resmi versiyonu 1.8 ile 1.11'dir.
