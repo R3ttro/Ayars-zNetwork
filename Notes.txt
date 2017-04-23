@@ -43,3 +43,7 @@ Beta 0.3 Güncelleme Notları:
 • Rütbe sistemi eklendi.
 • Klan sistemi eklendi.
 
+Beta 0.4 Güncelleme Notları:
+
+• Health Bar eklendi.
+• Sohbet botu eklendi.
