@@ -46,5 +46,4 @@ Beta 0.3 Güncelleme Notları:
 Beta 0.4 Güncelleme Notları:
 
 • Health Bar eklendi.
-• Sohbet botu eklendi.
 • Boss eklendi.
