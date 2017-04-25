@@ -1,11 +1,15 @@
+• ====================================================================================================================================
+
 I. Genel
 
 MADDE 1. - Sunucunun resmi ismi AyarsızNetwork'tür.
-MADDE 2. - Sunucunun resmi versiyonu 1.8 ile 1.11'dir.
-MADDE 3. - Sunucuda kurucu(lar)dan izinsiz sunucuda satış yapmak kesinlikle yasaktır.
+MADDE 2. - Sunucunun resmi adresi mc.AyarsizNetwork.com'dur.
+MADDE 3. - Sunucuda kurucu(lar)dan izinsiz satış yapmak kesinlikle yasaktır.
 MADDE 4. - Kural ihlali bildirimlerinde kanıtın net, anlaşılabilir olması ve delillerin yeterli olması şarttır.
-MADDE 5. - Sunucu eklentileri başka kişilere verilmez, paylaşılmaz; verilmesi teklif dahi edilemez.
-MADDE 6. - 1, 3, 4, 5, 6. maddelerinin değiştirilemez; değiştirilmesi teklif dahi edilemez.
+MADDE 5. - Sunucu eklentileri başka kişilere verilmez, paylaşılmaz; verilmesi, paylaşılması teklif dahi edilemez.
+MADDE 6. - 1, 2, 3, 4, 5, 6. maddeleri değiştirilemez; değiştirilmesi teklif dahi edilemez.
+
+• ====================================================================================================================================
 
 II. Sunucu Düzeni
 
@@ -13,12 +17,14 @@ MADDE 1. - 3. parti yazılımlar ile yetkili izini olmadan sunucuya girmek kesin
 MADDE 2. - Sohbet kısmında onur kırıcı; hakaret, küfür içeren mesajlar yazmak kesinlikle yasaktır.
 MADDE 3. - Siyaset, ırk, millet, din ayrımcılığı yapmak yasaktır.
 MADDE 4. - AyarsızNetwork ile alakası olmayan minecraft sunucu reklamları kesinlikle yasaktır.
-MADDE 3. - Sohbet kısmında spam yapmak, aynı mesajı tekrarlamak vb. eylemler yapmak kesinlikle yasaktır.
+MADDE 5. - Sohbet kısmında spam yapmak, aynı mesajı tekrarlamak vb. eylemler yapmak kesinlikle yasaktır.
 MADDE 6. - Yetkililerden oyun içi veya herhangi biryerden teknik destek(yardım) dışın item vb. şeyler istemek kesinlikle yasaktır.
 MADDE 7. - Sunucu açıkları, saldırıları vb. şeylerden kaynaklanan eşya, para, tecrübe, build vb. kayıplardan yönetim ekibi sorumlu değildir.
 MADDE 8. - Sunucuda oyun parası ile dolandırıcılık yapmak kesinlikle yasaktır.
 MADDE 9. - Işınlanma tuzağı(TPA Tuzağı) yapmak kesinlikle yasaktır.
 MADDE 10. - Sunucuyu, yetkilileri kötülemeye yönelik mesaj vb. eylemler yapmak kesinlikle yasaktır.
+
+• ====================================================================================================================================
 
 III. Sohbet Düzeni
 
@@ -30,7 +36,31 @@ MADDE 5. - Minecraft sunucu reklamı yapmak kesinlikle yasaktır.
 MADDE 6. - Sunucuya, yetkiliye hakaret içeren mesajlar yazmak kesinlikle yasaktır.
 MADDE 7. - Sohbet mesajlarında harf uzatması kullanmak kesinlikle yasaktır.
 
-IV. Yetkili Düzeni
+• ====================================================================================================================================
+
+IV. Cezalar
+#UYARI: Kişi uyarı aldığı zaman, siciline işlenir ve rütbesi bi alt kademeye düşürülür.
+#UZAKLAŞTIRMA: Kişi uzaklaştırma aldığı zaman, belirli bir süre sunucuya giremez.
+#SUSTURMA: Kişi susturulduğu zaman, sohbete mesaj yazamaz.
+#HAPİSE ATMA: Kişi hapise atıldığı zaman, o süre boyunca sunucuda oynayamaz
+#ATILMA: Kişi atıldığı zaman, mevcut görevinden ve rütbesinden olur.
+#KARA LİSTE: Kişi kara listeye eklendiği zaman, sunucuda birdaha yetkili olamaz; kara listeye eklenen kişinin skype adresiyle, isim ve soyismiyle, IPsiyle aynı kişiler hiçbir zaman işe alınmayacaktır.
+
+a. Genel
+MADDE 1. - Bu kuralları ihlal ettiği takdirde kişi istisnasız kara listeye eklenir.
+
+b. Sunucu Düzeni
+MADDE 1. - 2, 3, 4, 5, 6, 10. maddelerinin cezası istisnasız susturma, 1, 8, 9. maddelerin cezası ise istisnasız uzaklaştırma veya hapise atmadır.
+
+c. Sohbet Düzeni
+MADDE 1. - Bu kuralları ihlal ettiği takdirde kişiye istisnasız susturma cezası uygulanır.
+
+d. Yetkili Düzeni
+MADDE 1. - Bu kuralları ihlal ettiği takdirde kişiye istisnasız uyarı cezası verilir.
+
+• ====================================================================================================================================
+
+V. Yetkili Düzeni
 
 a. Kurucu kuralları
 MADDE 1. - Sunucuda oyuncu olarak oynaması yasaktır.
@@ -39,6 +69,7 @@ MADDE 3. - Oyuncular arasında din, ırk, siyaset ayrımları yapamaz.
 MADDE 4. - Oyunculara teknik destek dışında item, para, exp vb. yardımlarda bulunması yasaktır.
 MADDE 5. - Oyuncuları trollemesi, zarar vermesi; exp, para, build, eşya vb. şeyler kaybettirtmesi kesinlikle yasaktır.
 MADDE 6. - Klan kuramaz, katılamaz.
+MADDE 7. - Birden fazla kurucu olmadığında bu kurallar geçerli değildir. Tek kurucu olduğu durumlarda atılması gibi bi durum söz konusu olamaz.
 
 c. Admin kuralları
 MADDE 1. - Kendisinden üst rütbelerin sözlerine uyması, saygılı olması ve yaptığı işi üst rütbesine bildirmesi kesinlikle şarttır.
@@ -48,6 +79,7 @@ MADDE 4. - Oyunculara kötü davraması, küfür etmesi yasaktır.
 MADDE 5. - Oyuncular arasında din, ırk, siyaset ayrımları yapamaz
 MADDE 6. - Oyuncuları trollemesi, zarar vermesi; exp, para, build, eşya vb. şeyler kaybettirtmesi kesinlikle yasaktır.
 MADDE 7. - Klan kuramaz, katılamaz.
+MADDE 8. - 3. parti yazılımları kullanamaz.
 
 d. Moderatör kuralları
 MADDE 1. - Kendisinden üst rütbelerin sözlerine uyması, saygılı olması ve yaptığı işi üst rütbesine bildirmesi şarttır.
@@ -57,9 +89,14 @@ MADDE 4. - Oyunculara kötü davraması, küfür etmesi yasaktır.
 MADDE 5. - Oyuncuları trollemesi, zarar vermesi; exp, para, build, eşya vb. şeyler kaybettirtmesi kesinlikle yasaktır.
 MADDE 6. - Oyuncular arasında din, ırk, siyaset ayrımları yapamaz
 MADDE 7. - Klan kuramaz, katılamaz.
+MADDE 8. - 3. parti yazılımları kullanamaz.
 
 e. Rehber kuralları
-MADDE 1. - Kendisinden üst rütbelerin sözlerine uyması, saygılı olması ve yaptığı işi üst rütbesine bildirmesi şarttır.
+MADDE 1. - Kendisinden üst rütbelerin sözlerine uyması, saygılı olması şarttır.
 MADDE 2. - Gereksiz, belirlenen susturma sürelerinin dışında susturması yasaktır.
 MADDE 3. - Oyunculara kötü davraması, küfür etmesi yasaktır.
 MADDE 4. - Oyuncular arasında din, ırk, siyaset ayrımları yapamaz
+MADDE 5. - 3. parti yazılımları kullanamaz.
+
+• ====================================================================================================================================
+
