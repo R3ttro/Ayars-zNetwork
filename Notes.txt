@@ -47,3 +47,6 @@ Beta 0.4 Güncelleme Notları:
 
 • Health Bar eklendi.
 • Boss eklendi.
+• Anti küfür geliştirildi.
+• Admin eşyaları eklendi.
+• Oyun içi debug sistemi eklendi.
