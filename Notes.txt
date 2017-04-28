@@ -52,3 +52,4 @@ Beta 0.4 Güncelleme Notları:
 • Oyun içi debug sistemi eklendi.
 • Particle eklentisi yenilendi.
 • Rütne kitleri yenilendi.
+• Otomatik satma sistemi yenilendi.
