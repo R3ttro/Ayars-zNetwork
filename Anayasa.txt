@@ -31,12 +31,11 @@ MADDE 10. - Sunucuyu, yetkilileri kötülemeye yönelik mesaj vb. eylemler yapma
 III. Sohbet Düzeni
 
 MADDE 1. - Küfür içeren mesajlar yazmak kesinlikle yasaktır.
-MADDE 2. - Ailevi küfür içeren mesajlar yazmak kesinlikle yasaktır.
-MADDE 3. - Cinsel, pornografik içerikli mesajlar yazmak kesinlikle yasaktır.
-MADDE 4. - Mesajları sürekli tekrarlamak, spam vb. şeyler yazmak kesinlikle yasaktır.
-MADDE 5. - Minecraft sunucu reklamı yapmak kesinlikle yasaktır.
-MADDE 6. - Sunucuya, yetkiliye hakaret içeren mesajlar yazmak kesinlikle yasaktır.
-MADDE 7. - Sohbet mesajlarında harf uzatması kullanmak kesinlikle yasaktır.
+MADDE 2. - Cinsel, pornografik içerikli mesajlar yazmak kesinlikle yasaktır.
+MADDE 3. - Mesajları sürekli tekrarlamak, spam vb. şeyler yazmak kesinlikle yasaktır.
+MADDE 4. - Minecraft sunucu reklamı yapmak kesinlikle yasaktır.
+MADDE 5. - Sunucuya, yetkiliye hakaret içeren mesajlar yazmak kesinlikle yasaktır.
+MADDE 6. - Sohbet mesajlarında harf uzatması kullanmak kesinlikle yasaktır.
 
 • ====================================================================================================================================
 
