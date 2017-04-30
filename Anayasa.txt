@@ -48,18 +48,6 @@ IV. Cezalar
 #ATILMA: Kişi atıldığı zaman, mevcut görevinden ve rütbesinden olur.
 #KARA LİSTE: Kişi kara listeye eklendiği zaman, sunucuda birdaha yetkili olamaz; kara listeye eklenen kişinin skype adresiyle, isim ve soyismiyle, IPsiyle aynı kişiler hiçbir zaman işe alınmayacaktır.
 
-a. Genel
-MADDE 1. - Bu kuralları ihlal ettiği takdirde kişi istisnasız kara listeye eklenir.
-
-b. Sunucu Düzeni
-MADDE 1. - 2, 3, 4, 5, 6, 10. maddelerinin cezası istisnasız susturma, 1, 8, 9. maddelerin cezası ise istisnasız uzaklaştırma veya hapise atmadır.
-
-c. Sohbet Düzeni
-MADDE 1. - Bu kuralları ihlal ettiği takdirde kişiye istisnasız susturma cezası uygulanır.
-
-d. Yetkili Düzeni
-MADDE 1. - Bu kuralları ihlal ettiği takdirde kişiye istisnasız uyarı cezası verilir.
-
 • ====================================================================================================================================
 
 V. Yetkili Düzeni
