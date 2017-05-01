@@ -68,4 +68,5 @@ Beta 0.5 Güncelleme Notları:
 
 Beta 0.6 Güncelleme Notları:
 
-• 
+• Klan prefix tasarımı değiştirildi.
+• Laglar azaltıldı.
