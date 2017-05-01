@@ -60,3 +60,12 @@ Beta 0.5 Güncelleme Notları:
 
 • Warp menüsü tasarımı değiştirildi.
 • Kit menüsü tasarımı değiştirildi.
+• Çöpçü sistemi eklendi.
+• Sohbet sistemi geliştirildi.
+• AyarsızVIP eklendi.
+• VIP chat prefixleri değiştirildi.
+• Warp menüsü tasarımı değiştirildi [2].
+
+Beta 0.6 Güncelleme Notları:
+
+• 
