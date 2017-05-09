@@ -71,3 +71,4 @@ Beta 0.6 Güncelleme Notları:
 • Klan prefix tasarımı değiştirildi.
 • Laglar azaltıldı.
 • Factions eklentisi geliştirildi. 
+• Yeni rütbeler ve kitleri eklendi.
