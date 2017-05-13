@@ -51,7 +51,7 @@ Beta 0.4 Güncelleme Notları:
 • Admin eşyaları eklendi.
 • Oyun içi debug sistemi eklendi.
 • Particle eklentisi yenilendi.
-• Rütne kitleri yenilendi.
+• Rütbe kitleri yenilendi.
 • Otomatik satma sistemi yenilendi.
 • Genel pazar eklendi.
 • Tab menü tasarımı değiştirildi.
