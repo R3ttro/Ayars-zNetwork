@@ -72,3 +72,11 @@ Beta 0.6 Güncelleme Notları:
 • Laglar azaltıldı.
 • Factions eklentisi geliştirildi. 
 • Yeni rütbeler ve kitleri eklendi.
+• Ölüm mesajları geliştirildi.
+• Ölüm mesaj tasarımları değiştirildi.
+• Debug modu eklendi.
+
+Beta 0.7 Güncelleme Notları:
+
+• Debug modu geliştirildi.
+• Mob doğmama sorunu çözüldü.
