@@ -81,3 +81,6 @@ Beta 0.7 Güncelleme Notları:
 • Debug modu geliştirildi.
 • Mob doğmama sorunu çözüldü.
 • Oyuncu menü tasarımı değiştirildi.
+• Anket sistemi eklendi.
+• Banka skripti eklendi.
+• Banka soyma skripti eklendi.
