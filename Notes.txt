@@ -84,3 +84,4 @@ Beta 0.7 Güncelleme Notları:
 • Anket sistemi eklendi.
 • Banka skripti eklendi.
 • Banka soyma skripti eklendi.
+• Banka bug'ı düzeltildi.
