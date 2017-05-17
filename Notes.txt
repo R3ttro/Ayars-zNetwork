@@ -92,3 +92,4 @@ Beta 0.7 Güncelleme Notları:
 Beta 0.8 Güncelleme Notları:
 
 • Metin taşı eklendi.
+• Admin listesi eklendi.
