@@ -99,3 +99,8 @@ Beta 0.8 Güncelleme Notları:
 • VIP menüsü düzeltildi.
 • Ceza menüsü değiştirildi.
 • 
+•
+
+Beta 0.9 Güncelleme Notları:
+
+•
