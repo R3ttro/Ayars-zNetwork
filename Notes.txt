@@ -94,3 +94,4 @@ Beta 0.8 Güncelleme Notları:
 • Metin taşı eklendi.
 • Admin listesi eklendi.
 • "EntityDamageByEntityEvent" event sorunu düzeltildi.
+• Anti hile sistemi değiştirildi.
