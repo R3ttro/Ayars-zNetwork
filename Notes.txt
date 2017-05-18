@@ -95,3 +95,7 @@ Beta 0.8 Güncelleme Notları:
 • Admin listesi eklendi.
 • "EntityDamageByEntityEvent" event sorunu düzeltildi.
 • Anti hile sistemi değiştirildi.
+• Shop bug'ları giderildi.
+• VIP menüsü düzeltildi.
+• Ceza menüsü değiştirildi.
+• 
