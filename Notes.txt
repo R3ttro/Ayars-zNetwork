@@ -98,9 +98,9 @@ Beta 0.8 Güncelleme Notları:
 • Shop bug'ları giderildi.
 • VIP menüsü düzeltildi.
 • Ceza menüsü değiştirildi.
-• 
-•
+• VIPler, kitleri ve menüsü tamamen yenilendi.
+• Banka soyma skripti kaldırıldı
 
 Beta 0.9 Güncelleme Notları:
 
-•
+• 
