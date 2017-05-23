@@ -99,8 +99,9 @@ Beta 0.8 Güncelleme Notları:
 • VIP menüsü düzeltildi.
 • Ceza menüsü değiştirildi.
 • VIPler, kitleri ve menüsü tamamen yenilendi.
-• Banka soyma skripti kaldırıldı
+• Banka soyma skripti kaldırıldı.
 
 Beta 0.9 Güncelleme Notları:
 
-• 
+• Admin listesi çıkarıldı.
+• Kasa sistemi eklendi.
