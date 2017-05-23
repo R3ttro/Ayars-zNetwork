@@ -107,3 +107,5 @@ Beta 0.9 Güncelleme Notları:
 • Kasa sistemi eklendi.
 • Giriş, çıkış mesajları düzenlendi.
 • MOTD tasarımı değiştirildi.
+[!] Market sistemi yeniden kodlandı.
+•
