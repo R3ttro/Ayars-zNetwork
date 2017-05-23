@@ -105,3 +105,5 @@ Beta 0.9 Güncelleme Notları:
 
 • Admin listesi çıkarıldı.
 • Kasa sistemi eklendi.
+• Giriş, çıkış mesajları düzenlendi.
+• MOTD tasarımı değiştirildi.
