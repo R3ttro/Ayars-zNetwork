@@ -1,6 +1,6 @@
 Beta 0.1 Güncelleme Notları:
 
-• AyarsızNetwork Plugin Paketi oluşturuldu.
+[!] AyarsızNetwork Plugin Paketi oluşturuldu.
 • Mesaj prefixleri, tagları ve renkleri düzenlendi.
 • Gereksiz pluginler kaldırıldı.
 • Rapor sistemi yeniden hazırlandı.
@@ -35,6 +35,7 @@ Beta 0.3 Güncelleme Notları:
 • Güvenlik şifre sistemi geliştirildi.
 • Anti hile sistemi geliştirildi.
 • Ban menüsü getirildi.
+[!] Kurallar düzenlendi.
 • Sidebar tasarımı değiştirildi.
 • TOP 10 eklendi.
 • AuthMe mesaj tasarımları değiştirildi.
@@ -62,7 +63,7 @@ Beta 0.5 Güncelleme Notları:
 • Kit menüsü tasarımı değiştirildi.
 • Çöpçü sistemi eklendi.
 • Sohbet sistemi geliştirildi.
-• AyarsızVIP eklendi.
+• AVIP eklendi.
 • VIP chat prefixleri değiştirildi.
 • Warp menüsü tasarımı değiştirildi [2].
 
@@ -108,4 +109,5 @@ Beta 0.9 Güncelleme Notları:
 • Giriş, çıkış mesajları düzenlendi.
 • MOTD tasarımı değiştirildi.
 [!] Market sistemi yeniden kodlandı.
-•
+• Fırtına kazması eklendi.
+• Kasa sistemi değiştirildi.
