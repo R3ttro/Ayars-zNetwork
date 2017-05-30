@@ -117,3 +117,4 @@ Beta 0.9 Güncelleme Notları:
 • Top 10 sistemi değiştirildi.
 • Kırmızı liste eklendi.
 ? Görevler eklendi.
+• Klan sistemi ve tasarımları değiştirildi.
