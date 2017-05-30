@@ -112,3 +112,5 @@ Beta 0.9 Güncelleme Notları:
 • Fırtına kazması eklendi.
 • Kasa sistemi değiştirildi.
 • Otomatik mesaj sistemi geliştirildi.
+• Sidebar tablosu düzenlendi.
+• ANP(Ayarsız Network Puanı) sistemi eklendi.
