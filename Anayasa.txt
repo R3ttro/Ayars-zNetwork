@@ -65,7 +65,7 @@ MADDE 1. - Kendisinden üst rütbelerin sözlerine uyması, saygılı olması ve
 MADDE 2. - Gereksiz; belirlenen susturma,ban sürelerinin dışında uzaklaştırması veya susturması kesinlikle yasaktır.
 MADDE 3. - Sunucuda oyuncu olarak oynaması kesinlikle yasaktır.
 MADDE 4. - Oyunculara kötü davraması, küfür etmesi yasaktır.
-MADDE 5. - Oyuncular arasında din, ırk, siyaset ayrımları yapamaz
+MADDE 5. - Oyuncular arasında din, ırk, siyaset ayrımları yapamaz.
 MADDE 6. - Oyuncuları trollemesi, zarar vermesi; exp, para, build, eşya vb. şeyler kaybettirtmesi kesinlikle yasaktır.
 MADDE 7. - Klan kuramaz, katılamaz.
 MADDE 8. - 3. parti yazılımları kullanamaz.
@@ -76,7 +76,7 @@ MADDE 2. - Gereksiz; belirlenen susturma,ban sürelerinin dışında uzaklaştı
 MADDE 3. - Sunucuda oyuncu olarak oynaması kesinlikle yasaktır.
 MADDE 4. - Oyunculara kötü davraması, küfür etmesi yasaktır.
 MADDE 5. - Oyuncuları trollemesi, zarar vermesi; exp, para, build, eşya vb. şeyler kaybettirtmesi kesinlikle yasaktır.
-MADDE 6. - Oyuncular arasında din, ırk, siyaset ayrımları yapamaz
+MADDE 6. - Oyuncular arasında din, ırk, siyaset ayrımları yapamaz.
 MADDE 7. - Klan kuramaz, katılamaz.
 MADDE 8. - 3. parti yazılımları kullanamaz.
 
@@ -84,7 +84,7 @@ e. Rehber kuralları
 MADDE 1. - Kendisinden üst rütbelerin sözlerine uyması, saygılı olması şarttır.
 MADDE 2. - Gereksiz, belirlenen susturma sürelerinin dışında susturması yasaktır.
 MADDE 3. - Oyunculara kötü davraması, küfür etmesi yasaktır.
-MADDE 4. - Oyuncular arasında din, ırk, siyaset ayrımları yapamaz
+MADDE 4. - Oyuncular arasında din, ırk, siyaset ayrımları yapamaz.
 MADDE 5. - 3. parti yazılımları kullanamaz.
 
 • ====================================================================================================================================
