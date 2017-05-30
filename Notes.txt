@@ -116,4 +116,4 @@ Beta 0.9 Güncelleme Notları:
 • ANP(Ayarsız Network Puanı) sistemi eklendi.
 • Top 10 sistemi değiştirildi.
 • Kırmızı liste eklendi.
-[?] Görevler eklendi.
+? Görevler eklendi.
