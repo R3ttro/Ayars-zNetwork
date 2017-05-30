@@ -111,3 +111,4 @@ Beta 0.9 Güncelleme Notları:
 [!] Market sistemi yeniden kodlandı.
 • Fırtına kazması eklendi.
 • Kasa sistemi değiştirildi.
+• Otomatik mesaj sistemi geliştirildi.
