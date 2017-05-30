@@ -114,3 +114,4 @@ Beta 0.9 Güncelleme Notları:
 • Otomatik mesaj sistemi geliştirildi.
 • Sidebar tablosu düzenlendi.
 • ANP(Ayarsız Network Puanı) sistemi eklendi.
+• Top 10 sistemi değiştirildi.
