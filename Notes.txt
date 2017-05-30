@@ -35,7 +35,7 @@ Beta 0.3 Güncelleme Notları:
 • Güvenlik şifre sistemi geliştirildi.
 • Anti hile sistemi geliştirildi.
 • Ban menüsü getirildi.
-[!] Kurallar düzenlendi.
+• Kurallar düzenlendi.
 • Sidebar tasarımı değiştirildi.
 • TOP 10 eklendi.
 • AuthMe mesaj tasarımları değiştirildi.
@@ -108,7 +108,7 @@ Beta 0.9 Güncelleme Notları:
 • Kasa sistemi eklendi.
 • Giriş, çıkış mesajları düzenlendi.
 • MOTD tasarımı değiştirildi.
-[!] Market sistemi yeniden kodlandı.
+• Market sistemi yeniden kodlandı.
 • Fırtına kazması eklendi.
 • Kasa sistemi değiştirildi.
 • Otomatik mesaj sistemi geliştirildi.
