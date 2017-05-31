@@ -118,7 +118,4 @@ Beta 0.9 Güncelleme Notları:
 • Kırmızı liste eklendi.
 ? Görevler eklendi.
 • Klan sistemi ve tasarımları değiştirildi.
-#NOT: Para fiyatları düzenlenecek /edit.
-#NOT: Paralı VIP kitleri düzenlenecek.
-#NOT: /edit kasaları çıkartılacak, anahtarlar eklenecek.
 #NOT: Kurallar senkronize edilip yeniden ayarlanacak.
