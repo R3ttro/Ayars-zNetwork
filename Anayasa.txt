@@ -8,8 +8,7 @@ MADDE 1. - Sunucunun resmi ismi AyarsızNetwork'tür.
 MADDE 2. - Sunucunun resmi adresi mc.AyarsizNetwork.com'dur.
 MADDE 3. - Sunucuda kurucu(lar)dan izinsiz satış yapmak kesinlikle yasaktır.
 MADDE 4. - Kural ihlali bildirimlerinde kanıtın net, anlaşılabilir olması ve delillerin yeterli olması şarttır.
-MADDE 5. - Sunucu eklentileri başka kişilere verilmez, paylaşılmaz; verilmesi, paylaşılması teklif dahi edilemez.
-MADDE 6. - 1, 2, 3, 4, 5, 6. maddeleri değiştirilemez; değiştirilmesi teklif dahi edilemez.
+MADDE 5. - Sunucu eklentileri başka kişilere verilmez, paylaşılmaz.
 
 • ====================================================================================================================================
 
@@ -17,29 +16,21 @@ II. Sunucu Düzeni
 
 MADDE 1. - 3. parti yazılımlar ile yetkili izini olmadan sunucuya girmek kesinlikle yasaktır.
 MADDE 2. - Sohbet kısmında onur kırıcı; hakaret, küfür içeren mesajlar yazmak kesinlikle yasaktır.
-MADDE 3. - Siyaset, ırk, millet, din ayrımcılığı yapmak yasaktır.
-MADDE 4. - AyarsızNetwork ile alakası olmayan minecraft sunucu reklamları kesinlikle yasaktır.
-MADDE 5. - Sohbet kısmında spam yapmak, aynı mesajı tekrarlamak vb. eylemler yapmak kesinlikle yasaktır.
-MADDE 6. - Yetkililerden oyun içi veya herhangi biryerden teknik destek(yardım) dışın item vb. şeyler istemek kesinlikle yasaktır.
-MADDE 7. - Sunucu açıkları, saldırıları vb. şeylerden kaynaklanan eşya, para, tecrübe, build vb. kayıplardan yönetim ekibi sorumlu değildir.
-MADDE 8. - Sunucuda oyun parası ile dolandırıcılık yapmak kesinlikle yasaktır.
-MADDE 9. - Işınlanma tuzağı(TPA Tuzağı) yapmak kesinlikle yasaktır.
-MADDE 10. - Sunucuyu, yetkilileri kötülemeye yönelik mesaj vb. eylemler yapmak kesinlikle yasaktır.
+MADDE 3. - Cinsel, pornografik içerikli mesajlar yazmak kesinlikle yasaktır.
+MADDE 4. - Sohbet mesajlarında harf uzatması kullanmak kesinlikle yasaktır.
+MADDE 5. - Siyaset, ırk, millet, din ayrımcılığı yapmak yasaktır.
+MADDE 6. - AyarsızNetwork ile alakası olmayan minecraft sunucu reklamları kesinlikle yasaktır.
+MADDE 7. - Sohbet kısmında spam yapmak, aynı mesajı tekrarlamak vb. eylemler yapmak kesinlikle yasaktır.
+MADDE 8. - Yetkililerden oyun içi veya herhangi biryerden teknik destek(yardım) dışın item vb. şeyler istemek kesinlikle yasaktır.
+MADDE 9. - Sunucu açıkları, saldırıları vb. şeylerden kaynaklanan eşya, para, tecrübe, build vb. kayıplardan yönetim ekibi sorumlu değildir.
+MADDE 10. - Sunucuda oyun parası ile dolandırıcılık yapmak kesinlikle yasaktır.
+MADDE 11. - Sunucuda yetkililerden izinsiz gerçek para ile satış yapmak kesinlikle yasaktır.
+MADDE 12. - Işınlanma tuzağı(TPA Tuzağı) yapmak kesinlikle yasaktır.
+MADDE 13. - Sunucuyu, yetkilileri kötülemeye yönelik mesaj vb. eylemler yapmak kesinlikle yasaktır.
 
 • ====================================================================================================================================
 
-III. Sohbet Düzeni
-
-MADDE 1. - Küfür içeren mesajlar yazmak kesinlikle yasaktır.
-MADDE 2. - Cinsel, pornografik içerikli mesajlar yazmak kesinlikle yasaktır.
-MADDE 3. - Mesajları sürekli tekrarlamak, spam vb. şeyler yazmak kesinlikle yasaktır.
-MADDE 4. - Minecraft sunucu reklamı yapmak kesinlikle yasaktır.
-MADDE 5. - Sunucuya, yetkiliye hakaret içeren mesajlar yazmak kesinlikle yasaktır.
-MADDE 6. - Sohbet mesajlarında harf uzatması kullanmak kesinlikle yasaktır.
-
-• ====================================================================================================================================
-
-IV. Cezalar
+III. Cezalar
 #UYARI: Kişi uyarı aldığı zaman, siciline işlenir ve rütbesi bi alt kademeye düşürülür.
 #UZAKLAŞTIRMA: Kişi uzaklaştırma aldığı zaman, belirli bir süre sunucuya giremez.
 #SUSTURMA: Kişi susturulduğu zaman, sohbete mesaj yazamaz.
@@ -49,7 +40,7 @@ IV. Cezalar
 
 • ====================================================================================================================================
 
-V. Yetkili Düzeni
+IV. Yetkili Düzeni
 
 a. Kurucu kuralları
 MADDE 1. - Sunucuda oyuncu olarak oynaması yasaktır.
