@@ -118,4 +118,3 @@ Beta 0.9 Güncelleme Notları:
 • Kırmızı liste eklendi.
 ? Görevler eklendi.
 • Klan sistemi ve tasarımları değiştirildi.
-#NOT: Kurallar senkronize edilip yeniden ayarlanacak.
