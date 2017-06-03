@@ -119,3 +119,4 @@ Beta 0.9 Güncelleme Notları:
 ? Görevler eklendi.
 • Klan sistemi ve tasarımları değiştirildi.
 • İstatistik bug'ı düzeltildi.
+• Ölüm skripti geliştirildi.
