@@ -93,6 +93,7 @@ Beta 0.7 Güncelleme Notları:
 Beta 0.8 Güncelleme Notları:
 
 • Metin taşı eklendi.
+• Maaş sistemi çıkarıldı.
 • Admin listesi eklendi.
 • "EntityDamageByEntityEvent" event sorunu düzeltildi.
 • Anti hile sistemi değiştirildi.
