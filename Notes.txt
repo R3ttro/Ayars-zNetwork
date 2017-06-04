@@ -117,7 +117,6 @@ Beta 0.9 Güncelleme Notları:
 • ANP(Ayarsız Network Puanı) sistemi eklendi.
 • Top 10 sistemi değiştirildi.
 • Kırmızı liste eklendi.
-? Görevler eklendi.
 • Klan sistemi ve tasarımları değiştirildi.
 • İstatistik bug'ı düzeltildi.
 • Ölüm skripti geliştirildi.
@@ -125,4 +124,6 @@ Beta 0.9 Güncelleme Notları:
 
 Release 1.0 Güncelleme Notları:
 
-• ...
+? Görevler eklendi.
+• Top 10 tablosu eklendi.
+• Sidebar tablosu geliştirildi.
