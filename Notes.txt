@@ -121,3 +121,4 @@ Beta 0.9 Güncelleme Notları:
 • Klan sistemi ve tasarımları değiştirildi.
 • İstatistik bug'ı düzeltildi.
 • Ölüm skripti geliştirildi.
+• Anti-Spam geliştirildi.
