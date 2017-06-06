@@ -131,3 +131,4 @@ Release 1.0 Güncelleme Notları:
 • Mute sisteminde değişiklikler yapıldı.
 • Jackpot sistemi eklendi.
 • Sandık kilit sistemi yeniden kodlandı.
+• Açık arttırma sistemi yeniden kodlandı.
