@@ -132,3 +132,6 @@ Release 1.0 Güncelleme Notları:
 • Jackpot sistemi eklendi.
 • Sandık kilit sistemi yeniden kodlandı.
 • Açık arttırma sistemi yeniden kodlandı.
+• Kelime oyunu etkinliği eklendi.
+• Hata mesajları & prefixleri düzenlendi.
+• Mesaj sistemindeki açıklar giderildi.
