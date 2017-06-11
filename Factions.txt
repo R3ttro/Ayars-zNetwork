@@ -1,137 +1,137 @@
 Beta 0.1 Güncelleme Notları:
 
-[!] AyarsızNetwork Plugin Paketi oluşturuldu.
-• Mesaj prefixleri, tagları ve renkleri düzenlendi.
-• Gereksiz pluginler kaldırıldı.
-• Rapor sistemi yeniden hazırlandı.
-• Yetkililer menüsü eklendi.
-• Rütbe sisteminde ufak değişiklikler oldu.
-• Komut açıkları kapatıldı.
-• Sunucu versiyonları 1.8 - 1.11 olarak ayarlandı.
-• Mute sisteminin tasarımı değiştirildi, kodlamada küçük değişiklikler yapıldı.
-• Uyarı sistemine cool down eklendi.
-• Otomatik mesajlar kaldırıldı.
-• Giriş mesajları düzenlendi.
+▪ AyarsızNetwork Plugin Paketi oluşturuldu.
+▪ Mesaj prefixleri, tagları ve renkleri düzenlendi.
+▪ Gereksiz pluginler kaldırıldı.
+▪ Rapor sistemi yeniden hazırlandı.
+▪ Yetkililer menüsü eklendi.
+▪ Rütbe sisteminde ufak değişiklikler oldu.
+▪ Komut açıkları kapatıldı.
+▪ Sunucu versiyonları 1.8 - 1.11 olarak ayarlandı.
+▪ Mute sisteminin tasarımı değiştirildi, kodlamada küçük değişiklikler yapıldı.
+▪ Uyarı sistemine cool down eklendi.
+▪ Otomatik mesajlar kaldırıldı.
+▪ Giriş mesajları düzenlendi.
 
 Beta 0.2 Güncelleme Notları:
 
-• Warp sistemi yeniden hazırlandı.
-• Particle sorunu çözüldü.
-• Tab tasarımı değiştirildi.
-• Sunucuya giriş title mesaj tasarımı değiştirildi.
-• Sohbet silme mesaj tasarımı değiştirildi.
-• Motd tasarımı değiştirildi.
-• Essentials mesaj tasarımı değiştirildi.
-• Warp menü tasarımı değiştirildi.
-• Sidebar menüsü eklendi.
-• Ban sistemi değiştirildi.
-• Artık kısaltmalar otomatik olarak düzeltiliyor.
-• Arsalar tasarımı değiştirildi.
-• Tarlalar eklendi.
-• Disguise sistemi getirildi.
+▪ Warp sistemi yeniden hazırlandı.
+▪ Particle sorunu çözüldü.
+▪ Tab tasarımı değiştirildi.
+▪ Sunucuya giriş title mesaj tasarımı değiştirildi.
+▪ Sohbet silme mesaj tasarımı değiştirildi.
+▪ Motd tasarımı değiştirildi.
+▪ Essentials mesaj tasarımı değiştirildi.
+▪ Warp menü tasarımı değiştirildi.
+▪ Sidebar menüsü eklendi.
+▪ Ban sistemi değiştirildi.
+▪ Artık kısaltmalar otomatik olarak düzeltiliyor.
+▪ Arsalar tasarımı değiştirildi.
+▪ Tarlalar eklendi.
+▪ Disguise sistemi getirildi.
 
 Beta 0.3 Güncelleme Notları:
 
-• Güvenlik şifre sistemi geliştirildi.
-• Anti hile sistemi geliştirildi.
-• Ban menüsü getirildi.
-• Kurallar düzenlendi.
-• Sidebar tasarımı değiştirildi.
-• TOP 10 eklendi.
-• AuthMe mesaj tasarımları değiştirildi.
-• Açık arttırma eklendi.
-• Açık arttırma mesaj tasarımları değiştirildi, türkçeleştirildi.
-• Rütbe sistemi eklendi.
-• Klan sistemi eklendi.
+▪ Güvenlik şifre sistemi geliştirildi.
+▪ Anti hile sistemi geliştirildi.
+▪ Ban menüsü getirildi.
+▪ Kurallar düzenlendi.
+▪ Sidebar tasarımı değiştirildi.
+▪ TOP 10 eklendi.
+▪ AuthMe mesaj tasarımları değiştirildi.
+▪ Açık arttırma eklendi.
+▪ Açık arttırma mesaj tasarımları değiştirildi, türkçeleştirildi.
+▪ Rütbe sistemi eklendi.
+▪ Klan sistemi eklendi.
 
 Beta 0.4 Güncelleme Notları:
 
-• Health Bar eklendi.
-• Boss eklendi.
-• Anti küfür geliştirildi.
-• Admin eşyaları eklendi.
-• Oyun içi debug sistemi eklendi.
-• Particle eklentisi yenilendi.
-• Rütbe kitleri yenilendi.
-• Otomatik satma sistemi yenilendi.
-• Genel pazar eklendi.
-• Tab menü tasarımı değiştirildi.
+▪ Health Bar eklendi.
+▪ Boss eklendi.
+▪ Anti küfür geliştirildi.
+▪ Admin eşyaları eklendi.
+▪ Oyun içi debug sistemi eklendi.
+▪ Particle eklentisi yenilendi.
+▪ Rütbe kitleri yenilendi.
+▪ Otomatik satma sistemi yenilendi.
+▪ Genel pazar eklendi.
+▪ Tab menü tasarımı değiştirildi.
 
 Beta 0.5 Güncelleme Notları:
 
-• Warp menüsü tasarımı değiştirildi.
-• Kit menüsü tasarımı değiştirildi.
-• Çöpçü sistemi eklendi.
-• Sohbet sistemi geliştirildi.
-• AVIP eklendi.
-• VIP chat prefixleri değiştirildi.
-• Warp menüsü tasarımı değiştirildi [2].
+▪ Warp menüsü tasarımı değiştirildi.
+▪ Kit menüsü tasarımı değiştirildi.
+▪ Çöpçü sistemi eklendi.
+▪ Sohbet sistemi geliştirildi.
+▪ AVIP eklendi.
+▪ VIP chat prefixleri değiştirildi.
+▪ Warp menüsü tasarımı değiştirildi [2].
 
 Beta 0.6 Güncelleme Notları:
 
-• Klan prefix tasarımı değiştirildi.
-• Laglar azaltıldı.
-• Factions eklentisi geliştirildi. 
-• Yeni rütbeler ve kitleri eklendi.
-• Ölüm mesajları geliştirildi.
-• Ölüm mesaj tasarımları değiştirildi.
-• Debug modu eklendi.
+▪ Klan prefix tasarımı değiştirildi.
+▪ Laglar azaltıldı.
+▪ Factions eklentisi geliştirildi. 
+▪ Yeni rütbeler ve kitleri eklendi.
+▪ Ölüm mesajları geliştirildi.
+▪ Ölüm mesaj tasarımları değiştirildi.
+▪ Debug modu eklendi.
 
 Beta 0.7 Güncelleme Notları:
 
-• Debug modu geliştirildi.
-• Mob doğmama sorunu çözüldü.
-• Oyuncu menü tasarımı değiştirildi.
-• Banka sistemi eklendi.
-• Anket sistemi eklendi.
-• Banka soyma skripti eklendi.
-• Banka bug'ı düzeltildi.
-• Çöpçü sistemi geliştirildi.
-• Vote eklentisi getirildi.
-• Maaş sistemi eklendi.
+▪ Debug modu geliştirildi.
+▪ Mob doğmama sorunu çözüldü.
+▪ Oyuncu menü tasarımı değiştirildi.
+▪ Banka sistemi eklendi.
+▪ Anket sistemi eklendi.
+▪ Banka soyma skripti eklendi.
+▪ Banka bug'ı düzeltildi.
+▪ Çöpçü sistemi geliştirildi.
+▪ Vote eklentisi getirildi.
+▪ Maaş sistemi eklendi.
 
 Beta 0.8 Güncelleme Notları:
 
-• Metin taşı eklendi.
-• Maaş sistemi çıkarıldı.
-• Admin listesi eklendi.
-• "EntityDamageByEntityEvent" event sorunu düzeltildi.
-• Anti hile sistemi değiştirildi.
-• Shop bug'ları giderildi.
-• VIP menüsü düzeltildi.
-• Ceza menüsü değiştirildi.
-• VIPler, kitleri, özellikleri ve menüsü tamamen yenilendi.
-• Banka soyma skripti kaldırıldı.
+▪ Metin taşı eklendi.
+▪ Maaş sistemi çıkarıldı.
+▪ Admin listesi eklendi.
+▪ "EntityDamageByEntityEvent" event sorunu düzeltildi.
+▪ Anti hile sistemi değiştirildi.
+▪ Shop bug'ları giderildi.
+▪ VIP menüsü düzeltildi.
+▪ Ceza menüsü değiştirildi.
+▪ VIPler, kitleri, özellikleri ve menüsü tamamen yenilendi.
+▪ Banka soyma skripti kaldırıldı.
 
 Beta 0.9 Güncelleme Notları:
 
-• Admin listesi çıkarıldı.
-• Kasa sistemi eklendi.
-• Giriş, çıkış mesajları düzenlendi.
-• MOTD tasarımı değiştirildi.
-• Market sistemi yeniden kodlandı.
-• Fırtına kazması eklendi.
-• Kasa sistemi değiştirildi.
-• Otomatik mesaj sistemi geliştirildi.
-• Sidebar tablosu düzenlendi.
-• ANP(Ayarsız Network Puanı) sistemi eklendi.
-• Top 10 sistemi değiştirildi.
-• Kırmızı liste eklendi.
-• Klan sistemi ve tasarımları değiştirildi.
-• İstatistik bug'ı düzeltildi.
-• Ölüm skripti geliştirildi.
-• Anti-Spam geliştirildi.
+▪ Admin listesi çıkarıldı.
+▪ Kasa sistemi eklendi.
+▪ Giriş, çıkış mesajları düzenlendi.
+▪ MOTD tasarımı değiştirildi.
+▪ Market sistemi yeniden kodlandı.
+▪ Fırtına kazması eklendi.
+▪ Kasa sistemi değiştirildi.
+▪ Otomatik mesaj sistemi geliştirildi.
+▪ Sidebar tablosu düzenlendi.
+▪ ANP(Ayarsız Network Puanı) sistemi eklendi.
+▪ Top 10 sistemi değiştirildi.
+▪ Kırmızı liste eklendi.
+▪ Klan sistemi ve tasarımları değiştirildi.
+▪ İstatistik bug'ı düzeltildi.
+▪ Ölüm skripti geliştirildi.
+▪ Anti-Spam geliştirildi.
 
 Release 1.0 Güncelleme Notları:
 
 ? Görevler eklendi.
-• Top 10 tablosu eklendi.
-• Sidebar tablosu geliştirildi.
-• Anti-Küfür sistemi değiştirildi & geliştirildi.
-• Mute sisteminde değişiklikler yapıldı.
-• Jackpot sistemi eklendi.
-• Sandık kilit sistemi yeniden kodlandı.
-• Açık arttırma sistemi yeniden kodlandı.
-• Kelime oyunu etkinliği eklendi.
-• Hata mesajları & prefixleri düzenlendi.
-• Mesaj sistemindeki açıklar giderildi.
+▪ Top 10 tablosu eklendi.
+▪ Sidebar tablosu geliştirildi.
+▪ Anti-Küfür sistemi değiştirildi & geliştirildi.
+▪ Mute sisteminde değişiklikler yapıldı.
+▪ Jackpot sistemi eklendi.
+▪ Sandık kilit sistemi yeniden kodlandı.
+▪ Açık arttırma sistemi yeniden kodlandı.
+▪ Kelime oyunu etkinliği eklendi.
+▪ Hata mesajları & prefixleri düzenlendi.
+▪ Mesaj sistemindeki açıklar giderildi.
