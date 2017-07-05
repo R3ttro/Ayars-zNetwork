@@ -124,7 +124,7 @@ Beta 0.9 Güncelleme Notları:
 
 Release 1.0 Güncelleme Notları:
 
-? Görevler eklendi.
+? Görevler eklenmedi.
 ▪ Top 10 tablosu eklendi.
 ▪ Sidebar tablosu geliştirildi.
 ▪ Anti-Küfür sistemi değiştirildi & geliştirildi.
@@ -135,3 +135,5 @@ Release 1.0 Güncelleme Notları:
 ▪ Kelime oyunu etkinliği eklendi.
 ▪ Hata mesajları & prefixleri düzenlendi.
 ▪ Mesaj sistemindeki açıklar giderildi.
+• Rapor sistemi yenilendi.
+• Disguise sistemi eklendi.
